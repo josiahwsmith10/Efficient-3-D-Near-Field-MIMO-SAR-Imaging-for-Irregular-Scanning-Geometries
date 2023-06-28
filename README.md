@@ -1,5 +1,5 @@
 # Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries
-Code to accompany our paper Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries [arXiv](https://arxiv.org/abs/2305.02064), [DOI](https://doi.org/10.1109/ACCESS.2022.3145370).
+Code to accompany our paper Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries ([arXiv](https://arxiv.org/abs/2305.02064), [DOI](https://doi.org/10.1109/ACCESS.2022.3145370)).
 
 - This code provides several examples for simulating multi-planar multistatic scenarios and recovering the image using the proposed algorithm (EMPM: Efficient Multis-Planar Multistatic) or conventional backprojection algorithm (BPA). 
 - This project relies on the [Terhertz Imaging Toolbox with Interactive User Interface](https://github.com/josiahwsmith10/THz-and-Sub-THz-Imaging-Toolbox) for simulation. The THz toolbox must be installed for any of this code to work. 
